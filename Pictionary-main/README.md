@@ -4,8 +4,6 @@ data : https://quickdraw.withgoogle.com/data
 
 game : [Doodle game](https://quickdraw.withgoogle.com/)
 
-kaggle notebook: https://www.kaggle.com/code/arfan147/quickdraw-dl#5.-Training-Deep-learning-model
-
 This is a dataset that contains 340 classes, each class has more than a lakh data points. 
 
 My goal is to reverse engineer the doodle game by using deep learning and javascript.
